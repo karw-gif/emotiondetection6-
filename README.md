@@ -33,3 +33,7 @@ The model is trained to detect facial emotions using convolutional neural networ
 1. Clone the repository  
    ```bash
    git clone https://github.com/karw-gif/emotiondetection6-.git
+2.Install the required libraries 
+3.Place an input image in the project directory
+4.Run the detector script
+5.Review the output image
